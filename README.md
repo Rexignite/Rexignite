@@ -11,9 +11,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rexignite&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Rexignite?label=👥%20Followers&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/Rexignite?label=⭐%20Stars&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/🚀%20Projects-8+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯%20Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
