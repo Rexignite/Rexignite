@@ -1,22 +1,14 @@
 <!-- ========================================================== -->
-<!-- 🌟 UNIQUE HERO SECTION WITH GLOW EFFECT -->
+<!-- 🌟 HERO SECTION WITH ANIMATION -->
 <!-- ========================================================== -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ritesh%20Kumar&fontSize=70&fontAlignY=35&animation=fadeIn&desc=BCA%20Fresher%20⚡%20Django%20Developer%20🚀%20Tech%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
 </div>
 
-<!-- ========================================================== -->
-<!-- 🎯 ANIMATED TYPING WITH MULTIPLE LINES -->
-<!-- ========================================================== -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=700&lines=Welcome+To+My+Profile+%F0%9F%91%8B;I'm+Ritesh+Kumar+%F0%9F%92%BB;BCA+Fresher+%F0%9F%8E%93;Django+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=800&lines=Welcome+To+My+Profile+%F0%9F%91%8B;I'm+Ritesh+Kumar+%F0%9F%92%BB;BCA+Fresher+%F0%9F%8E%93;Django+Developer+%F0%9F%9A%80;Building+Student+Management+System+%F0%9F%8F%AB;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
-
-<!-- ========================================================== -->
-<!-- 📊 LIVE STATS BADGES -->
-<!-- ========================================================== -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rexignite&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -25,18 +17,65 @@
   <img src="https://img.shields.io/badge/🚀%20Projects-8+-blue?style=for-the-badge" />
 </p>
 
+---
+
 <!-- ========================================================== -->
-<!-- 💫 ABOUT ME - GLASS CARD EFFECT -->
+<!-- 📊 LIVE PROJECT ANALYTICS -->
+<!-- ========================================================== -->
+
+## 📊 Student Management System - Live Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊%20Total%20Students-6+-blue?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Active Students</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/👨‍🏫%20Total%20Teachers-5+-green?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Active Teachers</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📚%20Total%20Subjects-3+-orange?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Active Subjects</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/✅%20Attendance%20Rate-100%25-purple?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Attendance Rate</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📈%20Performance-89%25-red?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Overall Performance</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊%20Grade-A+-yellow?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Academic Grade</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Deployment-Live%20✅-brightgreen?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📱%20PWA-Supported-blue?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔐%20OTP-Enabled-success?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📊%20CSV-Import%2FExport-orange?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+---
+
+<!-- ========================================================== -->
+<!-- 💫 ABOUT ME -->
 <!-- ========================================================== -->
 
 ## 💫 About Me
 
 <table>
   <tr>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-    </td>
-    <td>
+    <td width="60%">
       <h3>🚀 Building the Future, One Line of Code at a Time</h3>
       <p>I'm a <b>BCA Fresher</b> with a burning passion for <b>Full-Stack Development</b>. I believe in writing clean, efficient code that solves real-world problems.</p>
       <ul>
@@ -48,11 +87,16 @@
         <li>⚡ <b>Fun Fact:</b> I debug with coffee ☕</li>
       </ul>
     </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+    </td>
   </tr>
 </table>
 
+---
+
 <!-- ========================================================== -->
-<!-- 🎨 TECH STACK - MODERN BADGES -->
+<!-- 🎨 TECH STACK -->
 <!-- ========================================================== -->
 
 ## 🎨 Tech Arsenal
@@ -81,8 +125,143 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=black" />
 </p>
 
+---
+
 <!-- ========================================================== -->
-<!-- 📊 GITHUB STATS - PREMIUM CARDS -->
+<!-- 🚀 STUDENT MANAGEMENT SYSTEM - FEATURED PROJECT -->
+<!-- ========================================================== -->
+
+## 🚀 Student Management System (SMS)
+
+> **A complete system for managing students, teachers, attendance, and marks with modern UI and PWA support.**
+
+### 📸 Project Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://i.imgur.com/your-dashboard-image.png" width="400" />
+        <br><sub><b>📊 Director Dashboard</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://i.imgur.com/your-teacher-image.png" width="400" />
+        <br><sub><b>👨‍🏫 Teacher Dashboard</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://i.imgur.com/your-student-image.png" width="400" />
+        <br><sub><b>👨‍🎓 Student Dashboard</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://i.imgur.com/your-analytics-image.png" width="400" />
+        <br><sub><b>📊 Analytics View</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ⚡ Key Features
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">✅ Student Management</td>
+      <td align="center">✅ Teacher Management</td>
+      <td align="center">✅ Subject Management</td>
+    </tr>
+    <tr>
+      <td align="center">✅ Attendance Tracking</td>
+      <td align="center">✅ Marks Management</td>
+      <td align="center">✅ OTP Password Reset</td>
+    </tr>
+    <tr>
+      <td align="center">✅ PWA Support</td>
+      <td align="center">✅ CSV Import/Export</td>
+      <td align="center">✅ Notification System</td>
+    </tr>
+  </table>
+</div>
+
+### 📊 Project Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📊%20Students-6+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👨‍🏫%20Teachers-5+-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚%20Subjects-3+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✅%20Attendance-100%25-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📈%20Performance-89%25-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊%20Grade-A+-yellow?style=for-the-badge" />
+</p>
+
+### 🔗 Project Links
+
+<p align="left">
+  <a href="https://github.com/Rexignite/Student-Management-System-v3">
+    <img src="https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://student-management-system-v3.onrender.com">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<!-- ========================================================== -->
+<!-- 🔐 OTP PASSWORD RESET SYSTEM -->
+<!-- ========================================================== -->
+
+## 🔐 OTP Password Reset System
+
+> **Secure password reset using email OTP verification with 10-minute expiry.**
+
+### 📸 OTP System Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://i.imgur.com/your-otp-forgot-image.png" width="400" />
+        <br><sub><b>📧 Forgot Password</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://i.imgur.com/your-otp-verify-image.png" width="400" />
+        <br><sub><b>✅ OTP Verification</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ⚡ OTP Features
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">✅ 6-Digit OTP Generation</td>
+      <td align="center">✅ Email Sending</td>
+      <td align="center">✅ 10-Minute Expiry</td>
+    </tr>
+    <tr>
+      <td align="center">✅ Session Management</td>
+      <td align="center">✅ Resend OTP</td>
+      <td align="center">✅ Secure Password Reset</td>
+    </tr>
+  </table>
+</div>
+
+### 🔗 Project Links
+
+<p align="left">
+  <a href="https://github.com/Rexignite/Student-Management-System-v3">
+    <img src="https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ========================================================== -->
+<!-- 📊 GITHUB STATS -->
 <!-- ========================================================== -->
 
 ## 📊 GitHub Analytics
@@ -97,8 +276,10 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rexignite&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f5f5f5&hide_border=true" />
 </p>
 
+---
+
 <!-- ========================================================== -->
-<!-- 🏆 ACHIEVEMENTS TROPHIES -->
+<!-- 🏆 ACHIEVEMENTS -->
 <!-- ========================================================== -->
 
 ## 🏆 Achievements
@@ -107,73 +288,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rexignite&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
-<!-- ========================================================== -->
-<!-- 🚀 FEATURED PROJECTS - CARD STYLE -->
-<!-- ========================================================== -->
-
-## 🚀 Featured Projects
-
-### 🎓 Student Management System
-
-<table>
-  <tr>
-    <td width="70%">
-      <h3>📋 Complete Student Management System</h3>
-      <p>A full-featured system to manage students, teachers, attendance, and marks with modern UI.</p>
-      <h4>⚡ Features:</h4>
-      <ul>
-        <li>✅ Student & Teacher Management</li>
-        <li>✅ Attendance Tracking</li>
-        <li>✅ Marks Management</li>
-        <li>✅ OTP Password Reset</li>
-        <li>✅ PWA Support</li>
-        <li>✅ CSV Import/Export</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Rexignite/Student-Management-System-v3">
-          <img src="https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://student-management-system-v3.onrender.com">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-        </a>
-      </p>
-    </td>
-    <td width="30%">
-      <img src="https://via.placeholder.com/200x200/0d1117/58a6ff?text=SMS" />
-    </td>
-  </tr>
-</table>
-
 ---
 
-### 🔐 OTP Password Reset System
-
-<table>
-  <tr>
-    <td width="70%">
-      <h3>📧 Secure OTP Based Password Reset</h3>
-      <p>Implement secure password reset functionality using email OTP verification with 10-minute expiry.</p>
-      <h4>⚡ Features:</h4>
-      <ul>
-        <li>✅ 6-Digit OTP Generation</li>
-        <li>✅ Email Sending</li>
-        <li>✅ 10-Minute Expiry</li>
-        <li>✅ Session Management</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Rexignite/Student-Management-System-v3">
-          <img src="https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="30%">
-      <img src="https://via.placeholder.com/200x200/0d1117/58a6ff?text=OTP" />
-    </td>
-  </tr>
-</table>
-
 <!-- ========================================================== -->
-<!-- 📈 CONTRIBUTION SNAKE -->
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <!-- ========================================================== -->
 
 ## 🐍 Contribution Snake
@@ -186,8 +304,10 @@
   </picture>
 </p>
 
+---
+
 <!-- ========================================================== -->
-<!-- 🤝 CONNECT WITH ME - SOCIAL BADGES -->
+<!-- 🤝 LET'S CONNECT -->
 <!-- ========================================================== -->
 
 ## 🤝 Let's Connect
@@ -213,8 +333,10 @@
   </a>
 </p>
 
+---
+
 <!-- ========================================================== -->
-<!-- 💬 RANDOM QUOTE -->
+<!-- 💬 DEVELOPER QUOTE -->
 <!-- ========================================================== -->
 
 ## 💬 Developer Quote
@@ -223,8 +345,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
 <!-- ========================================================== -->
-<!-- 🎯 SUPPORT SECTION -->
+<!-- 🎯 SUPPORT & FOOTER -->
 <!-- ========================================================== -->
 
 <p align="center">
@@ -234,10 +358,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
-<!-- ========================================================== -->
-<!-- 🔥 FOOTER -->
-<!-- ========================================================== -->
 
 <p align="center">
   <b>🚀 Always Learning | 🌟 Building for the Future | 💡 Open to Collaborations</b>
