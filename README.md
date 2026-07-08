@@ -217,7 +217,50 @@
 ---
 
 <!-- ========================================================== -->
-<!-- 📊 GITHUB STATS -->
+<!-- 🏆 ACHIEVEMENTS & CERTIFICATIONS -->
+<!-- ========================================================== -->
+
+## 🏆 Achievements & Certifications
+
+### 🎓 Internship Certificates
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <br><sub><b>Python Development</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎯%20Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+        <br><sub><b>Django Web Development</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌐%20Full%20Stack-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <br><sub><b>Full Stack Development</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <br><sub><b>SQL Database</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✅%20Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/✅%20Django%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/✅%20Web%20Development-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+<!-- ========================================================== -->
+<!-- 📊 GITHUB ANALYTICS -->
 <!-- ========================================================== -->
 
 ## 📊 GitHub Analytics
@@ -235,22 +278,23 @@
 ---
 
 <!-- ========================================================== -->
-<!-- 🏆 ACHIEVEMENTS -->
+<!-- 📊 EXTRA ANALYTICS -->
 <!-- ========================================================== -->
 
-## 🏆 Achievements
+## 📊 Extra Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rexignite&theme=radical&no-frame=true&row=2&column=4" />
+  <img src="https://img.shields.io/badge/📝%20Contributions-1000+-blue?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📂%20Repositories-10+-green?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔀%20PRs-20+-orange?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🐛%20Issues-5+-red?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
 
 <!-- ========================================================== -->
-
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <!-- ========================================================== -->
-
-
 
 ## 🐍 Contribution Snake
 
@@ -263,7 +307,7 @@
 ---
 
 <!-- ========================================================== -->
-<!-- 🤝 CONNECT -->
+<!-- 🤝 LET'S CONNECT -->
 <!-- ========================================================== -->
 
 ## 🤝 Let's Connect
@@ -286,13 +330,17 @@
 ---
 
 <!-- ========================================================== -->
-<!-- 💬 QUOTE -->
+<!-- 💬 DEVELOPER QUOTE -->
 <!-- ========================================================== -->
 
 ## 💬 Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <i>"यदा यदा हि धर्मस्य ग्लानिर्भवति भारत । अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥"</i>
+</p>
+
+<p align="center">
+  <b>- Ritesh Kumar</b>
 </p>
 
 ---
