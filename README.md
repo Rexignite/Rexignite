@@ -126,11 +126,11 @@
 
 ### 📸 Project Screenshots
 
-| Dashboard | View |
-|-----------|------|
-| **Director Dashboard** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/director-dashboard.png) |
-| **Teacher Dashboard** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/teacher-dashboard.png) |
-| **Student Dashboard** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/student-dashboard.png) |
+| Dashboard | Screenshot |
+|-----------|------------|
+| **👨‍💼 Director Dashboard** | ![Director Dashboard](https://raw.githubusercontent.com/Rexignite/Student-Management-System-v3/main/screenshots/Screenshot%202026-05-20%20202626.png) |
+| **👨‍🏫 Teacher Dashboard** | ![Teacher Dashboard](https://raw.githubusercontent.com/Rexignite/Student-Management-System-v3/main/screenshots/Screenshot%202026-05-20%20202849.png) |
+| **👨‍🎓 Student Dashboard** | ![Student Dashboard](https://raw.githubusercontent.com/Rexignite/Student-Management-System-v3/main/screenshots/Screenshot%202026-05-20%20202948.png) |
 
 ### ⚡ Key Features
 
@@ -187,8 +187,7 @@
 
 | Page | Screenshot |
 |------|------------|
-| **Forgot Password** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/otp-forgot-password.png) |
-| **OTP Verification** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/otp-verification.png) |
+| **📧 Forgot Password** | ![OTP Forgot Password](https://raw.githubusercontent.com/Rexignite/Student-Management-System-v3/main/screenshots/Screenshot%202026-07-08%20201714.png) |
 
 ### ⚡ OTP Features
 
