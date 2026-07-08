@@ -264,15 +264,18 @@
 <!-- 📊 EXTRA ANALYTICS -->
 <!-- ========================================================== -->
 
+<!-- ========================================================== -->
+<!-- 📊 EXTRA ANALYTICS -->
+<!-- ========================================================== -->
+
 ## 📊 Extra Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📝%20Contributions-1000+-blue" />
-  <img src="https://img.shields.io/badge/📂%20Repositories-10+-green" />
-  <img src="https://img.shields.io/badge/🔀%20PRs-20+-orange" />
-  <img src="https://img.shields.io/badge/🐛%20Issues-5+-red" />
+  <img src="https://img.shields.io/badge/📝%20Contributions-1000+-4A90D9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📂%20Repositories-10+-28A745?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔀%20Pull%20Requests-20+-FFA500?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐛%20Issues-5+-DC3545?style=for-the-badge&logo=github&logoColor=white" />
 </p>
----
 
 <!-- ========================================================== -->
 <!-- 🐍 CONTRIBUTION SNAKE -->
