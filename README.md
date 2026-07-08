@@ -1,5 +1,5 @@
 <!-- ========================================================== -->
-<!-- 🌟 HERO SECTION WITH ANIMATION -->
+<!-- 🌟 HERO SECTION -->
 <!-- ========================================================== -->
 
 <div align="center">
@@ -7,20 +7,19 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=800&lines=Welcome+To+My+Profile+%F0%9F%91%8B;I'm+Ritesh+Kumar+%F0%9F%92%BB;BCA+Fresher+%F0%9F%8E%93;Django+Developer+%F0%9F%9A%80;Building+Student+Management+System+%F0%9F%8F%AB;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=800&lines=Welcome+To+My+Profile+%F0%9F%91%8B;I'm+Ritesh+Kumar+%F0%9F%92%BB;BCA+Fresher+%F0%9F%8E%93;Django+Developer+%F0%9F%9A%80;Building+Student+Management+System+%F0%9F%8F%AB;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rexignite&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Rexignite?label=👥%20Followers&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/github/stars/Rexignite?label=⭐%20Stars&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/badge/🚀%20Projects-8+-blue?style=for-the-badge" />
 </p>
 
 ---
 
 <!-- ========================================================== -->
-<!-- 📊 LIVE PROJECT ANALYTICS -->
+<!-- 📊 PROJECT ANALYTICS -->
 <!-- ========================================================== -->
 
 ## 📊 Student Management System - Live Analytics
@@ -29,21 +28,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/📊%20Total%20Students-6+-blue?style=for-the-badge&labelColor=0d1117" />
-        <br><sub>Active Students</sub>
+        <img src="https://img.shields.io/badge/📊%20Students-6+-blue?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Total Students</sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/👨‍🏫%20Total%20Teachers-5+-green?style=for-the-badge&labelColor=0d1117" />
-        <br><sub>Active Teachers</sub>
+        <img src="https://img.shields.io/badge/👨‍🏫%20Teachers-5+-green?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Total Teachers</sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/📚%20Total%20Subjects-3+-orange?style=for-the-badge&labelColor=0d1117" />
-        <br><sub>Active Subjects</sub>
+        <img src="https://img.shields.io/badge/📚%20Subjects-3+-orange?style=for-the-badge&labelColor=0d1117" />
+        <br><sub>Total Subjects</sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/✅%20Attendance%20Rate-100%25-purple?style=for-the-badge&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/✅%20Attendance-100%25-purple?style=for-the-badge&labelColor=0d1117" />
         <br><sub>Attendance Rate</sub>
       </td>
       <td align="center">
@@ -59,10 +58,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Deployment-Live%20✅-brightgreen?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🚀%20Status-Live%20✅-brightgreen?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/📱%20PWA-Supported-blue?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/🔐%20OTP-Enabled-success?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/📊%20CSV-Import%2FExport-orange?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
@@ -77,12 +75,12 @@
   <tr>
     <td width="60%">
       <h3>🚀 Building the Future, One Line of Code at a Time</h3>
-      <p>I'm a <b>BCA Fresher</b> with a burning passion for <b>Full-Stack Development</b>. I believe in writing clean, efficient code that solves real-world problems.</p>
+      <p>I'm a <b>BCA Fresher</b> passionate about <b>Full-Stack Development</b>. I write clean, efficient code that solves real-world problems.</p>
       <ul>
         <li>🎓 <b>Education:</b> BCA (Bachelor of Computer Applications)</li>
         <li>💼 <b>Currently:</b> Building Student Management System</li>
-        <li>🌱 <b>Learning:</b> Django, Python, Cloud Computing</li>
-        <li>💬 <b>Ask Me About:</b> Python, Django, SQL, Web Dev</li>
+        <li>🌱 <b>Learning:</b> Django, Python, Cloud</li>
+        <li>💬 <b>Ask Me About:</b> Python, Django, SQL</li>
         <li>📫 <b>Reach Me:</b> riteshyadav.22564@gmail.com</li>
         <li>⚡ <b>Fun Fact:</b> I debug with coffee ☕</li>
       </ul>
@@ -101,85 +99,57 @@
 
 ## 🎨 Tech Arsenal
 
-### 💻 Languages & Frameworks
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 ---
 
 <!-- ========================================================== -->
-<!-- 🚀 STUDENT MANAGEMENT SYSTEM - FEATURED PROJECT -->
+<!-- 🚀 STUDENT MANAGEMENT SYSTEM -->
 <!-- ========================================================== -->
 
 ## 🚀 Student Management System (SMS)
 
-> **A complete system for managing students, teachers, attendance, and marks with modern UI and PWA support.**
+> **Complete system for managing students, teachers, attendance, and marks with modern UI and PWA support.**
 
 ### 📸 Project Screenshots
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://i.imgur.com/your-dashboard-image.png" width="400" />
-        <br><sub><b>📊 Director Dashboard</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/your-teacher-image.png" width="400" />
-        <br><sub><b>👨‍🏫 Teacher Dashboard</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://i.imgur.com/your-student-image.png" width="400" />
-        <br><sub><b>👨‍🎓 Student Dashboard</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/your-analytics-image.png" width="400" />
-        <br><sub><b>📊 Analytics View</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+| Dashboard | View |
+|-----------|------|
+| **Director Dashboard** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/director-dashboard.png) |
+| **Teacher Dashboard** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/teacher-dashboard.png) |
+| **Student Dashboard** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/student-dashboard.png) |
 
 ### ⚡ Key Features
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">✅ Student Management</td>
-      <td align="center">✅ Teacher Management</td>
-      <td align="center">✅ Subject Management</td>
+      <td>✅ Student Management</td>
+      <td>✅ Teacher Management</td>
+      <td>✅ Subject Management</td>
     </tr>
     <tr>
-      <td align="center">✅ Attendance Tracking</td>
-      <td align="center">✅ Marks Management</td>
-      <td align="center">✅ OTP Password Reset</td>
+      <td>✅ Attendance Tracking</td>
+      <td>✅ Marks Management</td>
+      <td>✅ OTP Password Reset</td>
     </tr>
     <tr>
-      <td align="center">✅ PWA Support</td>
-      <td align="center">✅ CSV Import/Export</td>
-      <td align="center">✅ Notification System</td>
+      <td>✅ PWA Support</td>
+      <td>✅ CSV Import/Export</td>
+      <td>✅ Notification System</td>
     </tr>
   </table>
 </div>
@@ -190,12 +160,9 @@
   <img src="https://img.shields.io/badge/📊%20Students-6+-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/👨‍🏫%20Teachers-5+-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📚%20Subjects-3+-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✅%20Attendance-100%25-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📈%20Performance-89%25-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📊%20Grade-A+-yellow?style=for-the-badge" />
 </p>
 
-### 🔗 Project Links
+### 🔗 Links
 
 <p align="left">
   <a href="https://github.com/Rexignite/Student-Management-System-v3">
@@ -216,41 +183,31 @@
 
 > **Secure password reset using email OTP verification with 10-minute expiry.**
 
-### 📸 OTP System Screenshots
+### 📸 OTP Screenshots
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://i.imgur.com/your-otp-forgot-image.png" width="400" />
-        <br><sub><b>📧 Forgot Password</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/your-otp-verify-image.png" width="400" />
-        <br><sub><b>✅ OTP Verification</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+| Page | Screenshot |
+|------|------------|
+| **Forgot Password** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/otp-forgot-password.png) |
+| **OTP Verification** | [View Screenshot](https://github.com/Rexignite/Student-Management-System-v3/blob/main/screenshots/otp-verification.png) |
 
 ### ⚡ OTP Features
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">✅ 6-Digit OTP Generation</td>
-      <td align="center">✅ Email Sending</td>
-      <td align="center">✅ 10-Minute Expiry</td>
+      <td>✅ 6-Digit OTP</td>
+      <td>✅ Email Sending</td>
+      <td>✅ 10-Minute Expiry</td>
     </tr>
     <tr>
-      <td align="center">✅ Session Management</td>
-      <td align="center">✅ Resend OTP</td>
-      <td align="center">✅ Secure Password Reset</td>
+      <td>✅ Session Management</td>
+      <td>✅ Resend OTP</td>
+      <td>✅ Secure Reset</td>
     </tr>
   </table>
 </div>
 
-### 🔗 Project Links
+### 🔗 Links
 
 <p align="left">
   <a href="https://github.com/Rexignite/Student-Management-System-v3">
@@ -307,7 +264,7 @@
 ---
 
 <!-- ========================================================== -->
-<!-- 🤝 LET'S CONNECT -->
+<!-- 🤝 CONNECT -->
 <!-- ========================================================== -->
 
 ## 🤝 Let's Connect
@@ -322,21 +279,15 @@
   <a href="https://github.com/Rexignite">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/share/1VLjycFECN">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
   <a href="mailto:riteshyadav.22564@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Yigtwx">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <!-- ========================================================== -->
-<!-- 💬 DEVELOPER QUOTE -->
+<!-- 💬 QUOTE -->
 <!-- ========================================================== -->
 
 ## 💬 Developer Quote
@@ -348,7 +299,7 @@
 ---
 
 <!-- ========================================================== -->
-<!-- 🎯 SUPPORT & FOOTER -->
+<!-- 🎯 FOOTER -->
 <!-- ========================================================== -->
 
 <p align="center">
