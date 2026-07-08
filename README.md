@@ -260,23 +260,6 @@
 ---
 
 <!-- ========================================================== -->
-<!-- 📊 GITHUB ANALYTICS -->
-<!-- ========================================================== -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rexignite&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f5f5f5&icon_color=58a6ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rexignite&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexignite&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f5f5f5" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rexignite&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f5f5f5&hide_border=true" />
-</p>
-
----
-
 <!-- ========================================================== -->
 <!-- 📊 EXTRA ANALYTICS -->
 <!-- ========================================================== -->
@@ -284,12 +267,11 @@
 ## 📊 Extra Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📝%20Contributions-1000+-blue?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/📂%20Repositories-10+-green?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🔀%20PRs-20+-orange?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🐛%20Issues-5+-red?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📝%20Contributions-1000+-blue" />
+  <img src="https://img.shields.io/badge/📂%20Repositories-10+-green" />
+  <img src="https://img.shields.io/badge/🔀%20PRs-20+-orange" />
+  <img src="https://img.shields.io/badge/🐛%20Issues-5+-red" />
 </p>
-
 ---
 
 <!-- ========================================================== -->
