@@ -1,6 +1,46 @@
 <!-- ========================================================== -->
 <!-- 🌟 HERO SECTION -->
 <!-- ========================================================== -->
+<!-- ========================================================== -->
+<!-- 🚀 AI-FIRST CRM HCP MODULE (NEW) -->
+<!-- ========================================================== -->
+
+## 🚀 AI-First CRM HCP Module
+
+> **AI-powered CRM system for Healthcare Professional (HCP) interaction logging with LangGraph agent and Groq LLM.**
+
+### ⚡ Key Features
+
+<div align="center">
+  <table>
+    <tr>
+      <td>✅ LangGraph AI Agent</td>
+      <td>✅ Groq LLM Integration</td>
+      <td>✅ React + Redux Frontend</td>
+    </tr>
+    <tr>
+      <td>✅ 5 Intelligent Tools</td>
+      <td>✅ Django REST API</td>
+      <td>✅ Dual Interface (Form + Chat)</td>
+    </tr>
+  </table>
+</div>
+
+### 🛠️ 5 LangGraph Tools
+
+1. **Log Interaction** - Auto-extract HCP details using LLM
+2. **Edit Interaction** - Modify logged interactions
+3. **Search HCP** - Find healthcare professionals
+4. **Schedule Follow-up** - Set reminders for future meetings
+5. **Generate Summary** - Create professional meeting summaries
+
+### 🔗 Links
+
+<p align="left">
+  <a href="https://github.com/Rexignite/ai-crm-hcp-interaction-logger">
+    <img src="https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ritesh%20Kumar&fontSize=70&fontAlignY=35&animation=fadeIn&desc=BCA%20Fresher%20⚡%20Django%20Developer%20🚀%20Tech%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
